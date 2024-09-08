@@ -6,4 +6,7 @@ target/
 *.iml
 *.ipr
 
+src/frontend/dist
+src/frontend/node_modules
+
 
